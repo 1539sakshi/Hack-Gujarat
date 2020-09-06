@@ -4,7 +4,7 @@
 > Civic organizations provide humanitarian assistance to individuals, groups, other organizations, and institutions that are less fortunate and in need. They address certain concerns that the government is unable to answer. Unfortunately, because of the pandemic affecting us and the restrictions placed because of it, civic organizations and other like minded groups are now limited in their interactions with their beneficiaries and thus are unable to connect with the people who are a little fortunate but they also need these basic necessities for their survival in this pandemic situation.
 
 ## SOLUTIONS
-- Team Avlamb came up with the mutual platform for the volunteers and people especially senior citizens who are restrained from going outside due to the present circumstances.
+- Team Aadhar came up with the mutual platform for the volunteers and people especially senior citizens who are restrained from going outside due to the present circumstances.
 - Further the project also provides the opportunity for the vendors to expand their business and provide employment.
 - The project also helps affected people to connect with plasma donors in their hour of need. 
 - Moreover, the application also guides users to be precautious during the pandemic period by providing tips and hacks in it's own unique way.
@@ -17,31 +17,16 @@
 ## CONTRACT ACCOUNT
 - With emerging technologies like Blockchain, we've planned to design a consensus to make payments betwwen volunteers and users more trustworthy.
 - User woul make payment into the contract account and based on the situation whether his stuff is delivered or not , payment would go into volunteer's account otherwise roll back to the user, this would make the application more thrustworthy and scalable.
-
-<p align="center"> 
-<img src="https://github.com/HAC-2020/Quaranteam/blob/master/Ethereum%20Block%20chain%20Contract%20Account.png" width="300" />
-</p>
-
 ## PROPOSED TECHSTACK
 - **FRONTEND**     : HTML5, CSS3, Bootstrap4, JavaScript,JQuery 
 - **BACKEND** 	  : MySql, PHP
 - **BLOCKCHAIN** : Ethereum, Node, Web-3, MetaMask, 
     Ganache, Truffle,JavaScript, Solidity
 - **EDITORS**           : Atom, Visual Studio Code, Xampp 
-
-<p align="center"> 
-<img src="https://github.com/HAC-2020/Quaranteam/blob/master/techstack.jpg" width="300" />
-</p>
-
 ## WHAT IF VACCINE ARRIVES
 - The arrival of vaccine would lead to a great rush in the hospitals and pharmacy sector, which for obvious reasons won’t be good for health especially the senior citizens who are more prone to the disease.
 - We’ve planned to inculcate the feature of calling trained volunteers who follow all the safety norms while they visit the houses for vaccination. 
 - This would not only prevent the people from standing in long queues but also offer an edge to the elderly and specially abled people to get vaccinated at the comfort of their home.This would boost the economy without any stress of affecting citizen’s life.
-
-<p align="center"> 
-<img src="https://github.com/HAC-2020/Quaranteam/blob/master/quee.jpg" width="300" />
-</p>
-
 ## UNIQUE SELLING POINTS
 > We're proud to share that we provided security to our users by using proper authentication for both users and volunteers. Moreover the blockchain network makes it most secure for payment and transfers. Additionally it was wonderful designing the site and connecting it structurally to make it user-friendly.
 Not only we connect the people in need with the volunteers but also bear the other feature which help people both economically and medically.
@@ -52,7 +37,7 @@ With features like plasma donation, precautionary advice and motivational source
 > The biggest challenge in front of of us was to provide security to our users as to how could we deal with the payment system without any trust issues. Choosing the best technology to build this application was another major challenge. 
 Finally we ended up deciding the use of structured databases for storing information and identity for security purpose while using decentralized approach for the payment purpose with proper smart contracts that are capable of dealing with the fraud situations.
 
-## FUTURE PLANS FOR AVLAMB
+## FUTURE PLANS FOR AADHAR
 We're planning to make it multi platform and add some additional features along with improving the security and authentication processes of the application. 
 - ***Connect with Medical Staff*** : We're planning to a medical features that will connect people with renowned doctors across the globe. 
 - ***Easing with employment*** : We're trying to connect the recruiters with the potential employees keeping in view that the crisis unbalanced the ratio of employed and unemployed.
